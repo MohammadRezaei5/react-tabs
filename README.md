@@ -9,13 +9,11 @@ Typescript:
 * index-signature
 * type-alias(keyof)
 * union-type
-  
 Javascript:
 * Object.keys()
 * map
 * ternary-operator
 * object-destructuring
-
 React:
 * useState
 * useEffect
@@ -23,7 +21,6 @@ React:
 * conditional-rendering
 * prop
 * children
-
 Css:
 * flexbox
 * ::after
