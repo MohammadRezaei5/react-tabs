@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+
+  font-family: "Vazirmatn", sans-serif;
+  font-feature-settings: "ss01";
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+
+  background-color: #d9dcd6;
+}
+html {
+  line-height: 1.5;
+}
+li {
+  list-style: none;
+}
+button {
+  font: inherit;
+}
