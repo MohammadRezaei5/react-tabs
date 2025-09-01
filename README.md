@@ -4,10 +4,10 @@ Building a Tab component in React with TypeScript
 
 Some features:
 
-* Typescript: interface/index-signature/type-alias(keyof)/union-type/
-* Javascript: Object.keys()/map/ternary-operator/object-destructuring
-* React: useState/useEffect/event-handler/conditional-rendering/prop/children/
-* Css: flexbox/::after/:hover/media-query/position/transition
+* Typescript: interface/ index-signature/ type-alias(keyof)/ union-type/
+* Javascript: Object.keys()/ map/ ternary-operator/ object-destructuring
+* React: useState/ useEffect/ event-handler/ conditional-rendering/ prop/ children/
+* Css: flexbox/ ::after/ :hover/ media-query/ position/ transition
 
 --------------------------------------------------------------
 
